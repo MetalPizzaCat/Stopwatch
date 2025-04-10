@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=goblinstopwatch
+Versuion=1.0
+Comment=A simple stopwatch app
+Path=/opt/goblinstopwatch
+Exec=/opt/goblinstopwatch/goblinstopwatch
+Icon=goblinstopwatch
+Categories=Accessories

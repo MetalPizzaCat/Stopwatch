@@ -1,0 +1,6 @@
+-C package
+-s dir
+-t deb
+-n "goblinstopwatch"
+-v 1.0.0
+-p goblinstopwatch.deb
