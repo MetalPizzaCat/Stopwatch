@@ -6,7 +6,7 @@ mkdir -p package/usr/share/applications
 mkdir -p package/usr/share/icons/hicolor/scalable/apps
 
 cp -r dist/goblinstopwatch package/opt/goblinstopwatch
-cp stopwatch_icon.svg package/usr/share/icons/hicolor/scalable/apps/goblinstopwatch
+cp stopwatch_icon.svg package/usr/share/icons/hicolor/scalable/apps/goblinstopwatch.svg
 cp goblinstopwatch.desktop package/usr/share/applications
 
 # Change permissions
